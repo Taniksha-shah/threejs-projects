@@ -1,3 +1,3 @@
 # getting-started-with-threejs
 
-![Project-1.1 BoxGeometry Screenshot](../img/project-1.1-ss.png)
+![Project-1.2 DodecahedronGeometry Screenshot](../img/project-1.2-ss.png)
