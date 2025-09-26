@@ -8,4 +8,4 @@
 
 # Moving onto...
 ### Earth
-![Project-2 EarthScreenshot](../img/project-2-ss.png)
+![Project-2 EarthScreenshot](img/project-2-ss.png)
