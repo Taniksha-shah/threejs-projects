@@ -9,3 +9,6 @@
 # Moving onto...
 ### Earth
 ![Project-2 EarthScreenshot](img/project-2-ss.png)
+
+### Wormhole
+![Project-3 WormholeScreenshot](img/project-3-ss.png)
